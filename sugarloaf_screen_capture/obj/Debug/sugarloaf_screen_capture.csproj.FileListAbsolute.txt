@@ -1,0 +1,10 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\bin\Debug\sugarloaf_screen_capture.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\bin\Debug\sugarloaf_screen_capture.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\bin\Debug\sugarloaf_screen_capture.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_screen_capture\sugarloaf_screen_capture\obj\Debug\sugarloaf_screen_capture.csproj.sugarloaf_screen_capture.exe.config
